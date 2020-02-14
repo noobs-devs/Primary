@@ -1,0 +1,21 @@
+h1
+{
+    color: navy;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+p
+{
+    color: orchid;
+    font-size: 9px;
+    font-family: inherit
+
+}
+
+h2{
+    color: red;
+    font-size: 25px;
+    font-family:inherit;
+
+}
